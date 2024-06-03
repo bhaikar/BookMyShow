@@ -1,0 +1,15 @@
+git init:-It helps to creat new blank reporsitery
+git status:- To check the status of the files in the reporsitery (Modified,to be comited).
+git log:-It keeps the record of commits.
+git add file name:-To add a file in a staging area so that git can start tracking the change in the file.
+git commit -m "<commited message>":- Taking all the version it a  creats local version.
+git checkout:-Used to Switching between different versions.
+git branch:-so that code base maintned indivudal.(-m).
+git add remote:-It is used to mearge with github.
+git config: It is used set the configration of the user.
+git pull or push:-If we want to take our file to local reporsitery.
+
+
+
+
+
